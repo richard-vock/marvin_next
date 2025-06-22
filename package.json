@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@instantdb/react": "^0.19.22",
+    "classnames": "^2.5.1",
     "next": "15.3.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
